@@ -40,6 +40,9 @@ Built with [Paolo Pangallo](https://github.com/PaoloPangallo). An AI shopping as
 
 ### More
 
+- [**QAOA vs classical solvers**](https://github.com/GiovanniLodari/QAOA-Vertex-Cover): Minimum Vertex Cover solved with QAOA and compared with Branch & Bound, Greedy and Simulated Annealing, in ideal, noisy and real IBM hardware runs. *Python · PennyLane · Qiskit*
+- [**Power-cable segmentation**](https://github.com/GiovanniLodari/Power-Cable_Instance_Segmentation_RF-DETR): instance segmentation of power cables with RF-DETR, evaluated with COCO metrics and an orientation-aware score. *Python · PyTorch · RF-DETR*
+- [**ESP32 Ambient Light**](https://github.com/GiovanniLodari/ESP32-Ambient-Light): bias lighting for a PC monitor, with an ESP32 driving a WS2812B strip from screen colours captured in real time. *Python · PyQt6 · ESP32 · Arduino*
 - [**Disaster Analytics**](https://github.com/GiovanniLodari/ProgettoBD): a Streamlit + PySpark app to explore large collections of disaster tweets, with a SQL editor, charts and distributed ML. *Python · PySpark · Streamlit · Plotly*
 - [**Organigram manager**](https://github.com/GiovanniLodari/ProgettoIngSW): a company organigram editor. *Java 17 · Spring Boot · Angular · PostgreSQL*
 
@@ -59,8 +62,11 @@ Python · Java · SQL · PySpark · pandas · NetworkX · FastAPI · Spring Boot
 **Frontend and tools**
 React · TypeScript · Angular · Streamlit · Git · Linux / WSL
 
-**Quantum**
-PennyLane · Qiskit
+**Computer vision**
+RF-DETR · instance segmentation · COCO evaluation
+
+**Quantum and embedded**
+PennyLane · Qiskit · ESP32 · Arduino
 
 ---
 
