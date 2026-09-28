@@ -10,6 +10,12 @@ My projects range from data pipelines and NLP to reinforcement learning, LLM age
 
 ## Selected projects
 
+### [MCP E-Commerce — AI Shopping Assistant](https://github.com/PaoloPangallo/MCP_E-commerce)
+
+Built with [Paolo Pangallo](https://github.com/PaoloPangallo). An AI shopping assistant around eBay, combining an MCP tool layer, agentic workflows and retrieval, with a FastAPI backend and a React interface.
+
+**Stack:** Python · FastAPI · MCP · RAG · Qdrant · PostgreSQL · React · TypeScript
+
 ### [SNM Intelligence](https://github.com/GiovanniLodari/SNM_Project)
 
 Built with [Paolo Pangallo](https://github.com/PaoloPangallo) and Constantin Adrian Antoci. An end-to-end pipeline on Mastodon: it collects posts, estimates which ones were written by an AI using four independent detectors, checks verifiable claims with an LLM that cites its sources, and studies how content spreads through the network.
@@ -23,12 +29,6 @@ Built with [Paolo Pangallo](https://github.com/PaoloPangallo) and Constantin Adr
 Built with [Paolo Pangallo](https://github.com/PaoloPangallo). A generate–validate–refine workflow: an LLM writes PDDL from a story, Fast Downward checks it, and a reflection step repairs the errors.
 
 **Stack:** Python · LangGraph · Ollama · Fast Downward · Flask
-
-### [MCP E-Commerce — AI Shopping Assistant](https://github.com/PaoloPangallo/MCP_E-commerce)
-
-Built with [Paolo Pangallo](https://github.com/PaoloPangallo). An AI shopping assistant around eBay, combining an MCP tool layer, agentic workflows and retrieval, with a FastAPI backend and a React interface.
-
-**Stack:** Python · FastAPI · MCP · RAG · Qdrant · PostgreSQL · React · TypeScript
 
 ### More
 
