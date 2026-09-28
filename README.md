@@ -18,14 +18,6 @@ Built with [Paolo Pangallo](https://github.com/PaoloPangallo) and Constantin Adr
 
 **What it shows:** a complete pipeline from data collection to a tested web interface, comparison of detectors that disagree, and graph analysis (community detection, influence maximization, Monte Carlo diffusion).
 
-### [Leduc Poker RL](https://github.com/GiovanniLodari/Leduc-Poker-RL)
-
-Reinforcement-learning experiments on Leduc Poker with OpenSpiel: NFSP against DQN, CFR and Deep CFR, measured through exploitability, with network variants (attention, small and deep MLPs) and an Alpha-Rank tournament between agents.
-
-**Stack:** Python · JAX · Haiku · OpenSpiel · FastAPI
-
-**What it shows:** running and comparing many RL experiments, with logging, plots and a monitoring dashboard.
-
 ### [LLM + PDDL Automated Planning](https://github.com/PaoloPangallo/PDDL_LLM)
 
 Built with [Paolo Pangallo](https://github.com/PaoloPangallo). A generate–validate–refine workflow: an LLM writes PDDL from a story, Fast Downward checks it, and a reflection step repairs the errors.
@@ -40,6 +32,7 @@ Built with [Paolo Pangallo](https://github.com/PaoloPangallo). An AI shopping as
 
 ### More
 
+- [**Leduc Poker RL**](https://github.com/GiovanniLodari/Leduc-Poker-RL): reinforcement-learning experiments on Leduc Poker with OpenSpiel, comparing NFSP with DQN, CFR and Deep CFR through exploitability, with network variants and an Alpha-Rank tournament. *Python · JAX · Haiku · OpenSpiel*
 - [**Telco churn prediction**](https://github.com/GiovanniLodari/DataMiningProject): churn prediction on 7,043 customers with a strict train / validation / test protocol, comparing XGBoost, AdaBoost, SVM, Random Forest and neural networks. Built with Vincenzo Napoli. *Python · scikit-learn · XGBoost*
 - [**QAOA vs classical solvers**](https://github.com/GiovanniLodari/QAOA-Vertex-Cover): Minimum Vertex Cover solved with QAOA and compared with Branch & Bound, Greedy and Simulated Annealing, in ideal, noisy and real IBM hardware runs. *Python · PennyLane · Qiskit*
 - [**Power-cable segmentation**](https://github.com/GiovanniLodari/Power-Cable_Instance_Segmentation_RF-DETR): instance segmentation of power cables with RF-DETR, evaluated with COCO metrics and an orientation-aware score. *Python · PyTorch · RF-DETR*
