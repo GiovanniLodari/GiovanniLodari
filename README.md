@@ -12,7 +12,7 @@ My projects range from data pipelines and NLP to reinforcement learning, LLM age
 
 ### [SNM Intelligence](https://github.com/GiovanniLodari/SNM_Project)
 
-An end-to-end pipeline on Mastodon: it collects posts, estimates which ones were written by an AI using four independent detectors, checks verifiable claims with an LLM that cites its sources, and studies how content spreads through the network.
+Built with [Paolo Pangallo](https://github.com/PaoloPangallo) and Constantin Adrian Antoci. An end-to-end pipeline on Mastodon: it collects posts, estimates which ones were written by an AI using four independent detectors, checks verifiable claims with an LLM that cites its sources, and studies how content spreads through the network.
 
 **Stack:** Python · FastAPI · React · TypeScript · PostgreSQL / SQLite · Transformers · NetworkX · Leiden / Infomap
 
