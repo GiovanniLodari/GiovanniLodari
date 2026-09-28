@@ -59,9 +59,6 @@ Python · Java · SQL · PySpark · pandas · NetworkX · FastAPI · Spring Boot
 **Frontend and tools**
 React · TypeScript · Angular · Streamlit · Git · Linux / WSL
 
-**Quantum**
-PennyLane · Qiskit
-
 ---
 
 ## Currently
